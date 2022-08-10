@@ -23,7 +23,7 @@ async def start(client, message):
     if message.chat.type in ['group', 'supergroup']:
         buttons = [
             [
-                InlineKeyboardButton('🤖 Updates', url='https://t.me/BX_Botz')
+                InlineKeyboardButton('🤖 Updates', url='https://t.me/cinemahub000')
             ],
             [
                 InlineKeyboardButton('ℹ️ Help', url=f"https://t.me/TheAutoFilterBot?start=help"),
@@ -45,7 +45,7 @@ async def start(client, message):
             InlineKeyboardButton('➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ ᴀ ɢʀᴏᴜᴘ ➕', url=f'http://t.me/FlashFilmBot?startgroup=true')
             ],[
             InlineKeyboardButton('🔍 sᴇᴀʀᴄʜ', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇs', url='https://t.me/BX_Botz')
+            InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇs', url='https://t.me/cinemahub000')
             ],[
             InlineKeyboardButton('📚 ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('ᴀʙᴏᴜᴛ 🔰', callback_data='about')
@@ -76,7 +76,7 @@ async def start(client, message):
             btn.append([InlineKeyboardButton("🔄 Try Again 🔄", callback_data=f"checksub#{message.command[1]}")])
         await client.send_message(
             chat_id=message.from_user.id,
-            text="**Please Join My Updates Channel to use this Bot!**",
+            text="**🗣 In Order To Get The Movie Requested By You in Our Group, You Must Have To Join Our Official Channel First By Clicking (📢 Join Channel 📢) Button.🗣 After That, Click (🔄 Go Back To Group And take your files and click start the files will be available I'll Send You That Movie File📂!!**",
             reply_markup=InlineKeyboardMarkup(btn),
             parse_mode="markdown"
             )
@@ -86,7 +86,7 @@ async def start(client, message):
             InlineKeyboardButton('➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ ᴀ ɢʀᴏᴜᴘ ➕', url=f'http://t.me/FlashFilmBot?startgroup=true')
             ],[
             InlineKeyboardButton('🔍 sᴇᴀʀᴄʜ', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇs', url='https://t.me/BX_Botz')
+            InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇs', url='https://t.me/cinemahu000')
             ],[
             InlineKeyboardButton('📚 ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('ᴀʙᴏᴜᴛ 🔰', callback_data='about')
@@ -304,6 +304,6 @@ async def delete_all_index_confirm(bot, message):
 
 MOVIE_BTNS = InlineKeyboardMarkup(
            [[
-           InlineKeyboardButton("🔰 ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ 🔰", url="https://t.me/BX_Botz")
+           InlineKeyboardButton("🔰 Uᴘᴅᴀᴛᴇ Gʀᴏᴜᴘ 🔰", url="https://t.me/cinemahub000")
            ]]
         )
