@@ -15,10 +15,10 @@ caption = """
 
 Made With ❤ BY @BX_Botz**
     """
-JOIN_ASAP = f"**Please Join MY Updates Channel To Use This Bot!**" 
+JOIN_ASAP = f"**🗣 In Order To Get The Movie Requested By You in Our Group, You Must Have To Join Our Official Channel First By Clicking (📢 Join Channel 📢) Button.🗣 After That, Click (🔄 Go Back To Group And take your files and click start the files will be available I'll Send You That Movie File📂!!**" 
 FSUBB = InlineKeyboardMarkup( 
            [[ 
-               InlineKeyboardButton(text="🔰 Join Updates Channel 🔰 ", url=f"https://t.me/bx_botz") 
+               InlineKeyboardButton(text="🔰 Join Updates Channel 🔰 ", url=f"https://t.me/cinemahub000") 
            ]] 
 )
 
