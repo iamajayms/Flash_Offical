@@ -4,7 +4,7 @@ class script(object):
 ɪᴀᴍ ᴀ sɪᴍᴘʟᴇ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ + ᴍᴏᴠɪᴇ sᴇᴀʀᴄʜ + ᴍᴀɴᴜᴀʟ ꜰɪʟᴛᴇʀ ʙᴏᴛ. ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴍᴏᴠɪᴇs ɪɴ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs. ʏᴏᴜ ᴄᴀɴ sᴇᴀʀᴄʜ ᴍᴏᴠɪᴇs ᴠɪᴀ ɪɴʟɪɴᴇ. ɪ ᴄᴀɴ ᴀʟsᴏ ᴀᴅᴅ ꜰɪʟᴛᴇʀs ɪɴ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs. ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴇɴᴊᴏʏ😌"""
     HELP_TXT = """🔰 ʜᴇʀᴇ ɪs ᴍʏ ᴀʟʟ ᴍᴏᴅᴜʟᴇs"""
 
-    ABOUT_TXT = """**🤖 ʙᴏᴛ ɴᴀᴍᴇ: [Sᴘɪᴅᴇʀ Mᴀɴ ](t.me/TheAutoFilterBot)
+    ABOUT_TXT = """**🤖 ʙᴏᴛ ɴᴀᴍᴇ: [Fʟᴀsʜ](t.me/FlashFilmBot)
 
 📝 **ʟᴀɴɢᴜᴀɢᴇ : [ᴘʏᴛʜᴏɴ ](https://www.python.org)**
 
@@ -12,13 +12,13 @@ class script(object):
 
 📡 **ʜᴏsᴛᴇᴅ ᴏɴ : [ʜᴇʀᴏᴋᴜ](heroku.com)**
 
-👨‍💻 **ᴅᴇᴠᴇʟᴏᴘᴇʀ : [ᴍᴜꜰᴀᴢ ᴛɢ 🇮🇳](t.me/MufazTG)**
+👨‍💻 **ᴅᴇᴠᴇʟᴏᴘᴇʀ : [Sᴏᴠᴇʟ Jᴀɪsᴏɴ 🇮🇳](t.me/sovel_jaison)**
 
 💡 **sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/nokiyirunnoippokitum)**
 
-👥 **sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : [ʙx sᴜᴘᴘᴏʀᴛ](https://t.me/BXSUPPORT)**
+👥 **sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : [Cʟɪᴄᴋ Hᴇʀᴇ](https://t.me/cinemahub000)**
 
-📢 **ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ : [ʙx ʙᴏᴛs](https://t.me/BX_Botz)**
+📢 **ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ : [Cʟɪᴄᴋ Hᴇʀᴇ](https://t.me/cinemahub00)**
 """
     SOURCE_TXT = """<b>NOTE:</b>
 - Not OpenSource
@@ -46,7 +46,7 @@ class script(object):
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/TheAutoFilterBot
+<code>[Button Text](buttonurl:https://t.me/FlashFilmBot
 )</code>
 
 <b>Alert buttons:</b>
