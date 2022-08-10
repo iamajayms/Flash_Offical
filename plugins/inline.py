@@ -17,7 +17,7 @@ async def answer(bot, query):
     if AUTH_CHANNEL and not await is_subscribed(bot, query):
         await query.answer(results=[],
                            cache_time=0,
-                           switch_pm_text='Join Updates Channel To Use This Bot 😌',
+                           switch_pm_text='🗣 In Order To Get The Movie Requested By You in Our Group, You Must Have To Join Our Official Channel First By Clicking (📢 Join Channel 📢) Button.🗣 After That, Click (🔄 Go Back To Group And take your files and click start the files will be available I'll Send You That Movie File📂! 😌',
                            switch_pm_parameter="subscribe")
         return
 
@@ -92,7 +92,7 @@ def get_reply_markup(query):
     buttons = [
         [
             InlineKeyboardButton('🔍 Search Again', switch_inline_query_current_chat=query),
-            InlineKeyboardButton('🧩 Other Bots', url='https://t.me/BX_Botz/31')
+            InlineKeyboardButton('🧩 Other Bots', url='https://t.me/lucascinemahubbot')
         ]
         ]
     return InlineKeyboardMarkup(buttons)
