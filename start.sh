@@ -1,10 +1,10 @@
 if [ -z $UPSTREAM_REPO ]
 then
   echo "Cloning main Repository"
-  git clone https://github.com/Deepu316/Flash_Offical.git /Flash_offical
+  git clone https://github.com/BXBotz2021/Spider-Official.git /Spider-Official
 else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
-  git clone $UPSTREAM_REPO /Flash_offical
+  git clone $UPSTREAM_REPO /Spider-Official
 fi
 cd /Spider-Official
 pip3 install -U -r requirements.txt
